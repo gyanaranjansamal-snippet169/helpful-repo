@@ -1,0 +1,12 @@
+b0 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If 
+b1 263JGJPfgU6LtdEvgfWU1XP5yac29mFx 
+b2 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx 
+b3 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ 
+b4 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw  
+b5 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ 
+b6 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj 
+b8 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM 
+b9 FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+b10 dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+b11 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+ssh bandit12@bandit.labs.overthewire.org -p 2220
