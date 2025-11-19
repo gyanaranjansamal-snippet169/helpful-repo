@@ -1,1 +1,1 @@
-overthewire.org Bandit CTF labs, focusing on Linux security
+overthewire.org Bandit CTF labs,A-Z
